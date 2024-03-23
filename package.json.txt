@@ -1,0 +1,13 @@
+{
+ "name": "be.nARnia.waterBall",
+ "version": "0.0.1",
+ "displayName": "Water Ball",
+ "description": "A Water Ball with a shader",
+ "unity": "2022.3",
+ "keywords": ["Script","Tool"],
+ "author": {
+    "name": "Bradley Fourneau",
+    "email": "Fourneaubradleyx@gmail.com",
+    "url": ""
+ }
+}
